@@ -1,0 +1,3 @@
+D:/c++/CLB_final/CMakeFiles/yourname.dir
+D:/c++/CLB_final/CMakeFiles/edit_cache.dir
+D:/c++/CLB_final/CMakeFiles/rebuild_cache.dir
