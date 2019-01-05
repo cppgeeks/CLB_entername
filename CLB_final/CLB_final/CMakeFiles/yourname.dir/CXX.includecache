@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/c++/CLB_final/Print.cpp
+Print.h
+D:/c++/CLB_final/Print.h
+
+D:/c++/CLB_final/Print.h
+stdio.h
+-
+SDL2/SDL.h
+-
+SDL2/SDL_ttf.h
+-
+string
+-
+iostream
+-
+stdlib.h
+-
+ctime
+-
+

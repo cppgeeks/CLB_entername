@@ -1,0 +1,1 @@
+-L/mingw32/lib  -lmingw32 -lSDL2main -lSDL2  -mwindows -lSDL2_IMAGE -lSDL2_TTF -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
